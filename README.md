@@ -28,11 +28,10 @@ This project provisions a secure Amazon S3 bucket using Terraform.
 
 ## Usage
 
-bash
-terraform init
-terraform plan
-terraform apply
-terraform destroy
+- terraform init
+- terraform plan
+- terraform apply
+- terraform destroy
 
 
 ## Author
