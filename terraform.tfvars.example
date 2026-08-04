@@ -1,0 +1,2 @@
+aws_region  = "ap-south-1"
+bucket_name = "vipul-devops-s3-lab-975049977417-001"
